@@ -1,0 +1,19 @@
+{
+  "name": "display-names",
+  "version": "1.0.0",
+  "description": "display names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noortas/display-names.git"
+  },
+  "author": "Rizwan Ahamed <rizwan.ahamedali@team.telstra.com> (http://noortas.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noortas/display-names/issues"
+  },
+  "homepage": "https://github.com/noortas/display-names#readme"
+}
